@@ -25,36 +25,7 @@
             <li>phy101</li>
             <li>phy107</li>
         </ul>
-        <h3>Work Experience</h3>
-      <table cell spacing="10">
-        <thead>
-          <tr>
-              <th>Dates</th>
-              <th>Work</th>
-          </tr>  
-        </thead>
-        <tbody>
-            
-        </tbody>
-        <tfooter>
-            
-        </tfooter>
-          <tr>
-              <td>2021-2022</td>
-              <td>Worked as an hair stylist</td>
-          </tr>
-          <tr>
-              <td>2021</td>
-              <td>Was an undergraduate</td>
-          </tr>
-      </table>
-         <hr>
-        <h3>My hobbies
-    <ol>
-        <li><a href="https://www.google.com/search?q=movies&oq=movies&aqs=chrome..69i57j0i433i512l2j46i175i199i512j0i131i433i512j0i512j46i175i199i512j0i433i512j0i271l3.2638j0j4&client=ms-android-transsion&sourceid=chrome-mobile&ie=UTF-8">watching movies</a> </li>
-        <li><a href=https://www.google.com/search?q=learning+new+things&oq=learning+new+things&aqs=chrome..69i57j0i512l7.7210j1j9&client=ms-android-transsion&sourceid=chrome-mobile&ie=UTF-8> new things</a> </li>
-    </ol>
-    <h3>Skills
+        Skills
   <table cell spacing="10">
       <tr>
           <td>hair dressing</td>
